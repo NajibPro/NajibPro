@@ -2,7 +2,6 @@
 <h3 align="center">A passionate frontend developer and UI/UX designer from Algeria</h3>
 
 
-<img align="right" alt="coding" width="400px" src="https://github.com/NajibPro/NajibPro/assets/96317571/c324ce9c-7f75-4cd9-847c-56a7b05c2469">
 
 
 - 🌱 I’m currently learning **React**
