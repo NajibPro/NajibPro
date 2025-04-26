@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Reinforcement learning**
 
-- 💬 Ask me about **front end development, Mobile development, UI/UX design**
+- 💬 Ask me about **AI, front end development, Mobile development, UI/UX design**
 
 - 📫 How to reach me **najibbentayeb03@gmail.com**
 
