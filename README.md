@@ -4,7 +4,7 @@
 
 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Reinforcement learning**
 
 - 💬 Ask me about **front end development, Mobile development, UI/UX design**
 
